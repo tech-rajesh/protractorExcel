@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623495765247' stop='1623495765418'>
+    <name>Read XL Data</name>
+    <title>Read XL Data</title>
+    <test-cases>
+        <test-case start='1623495765248' status='pending' stop='1623495765252'>
+            <name>Read Cell value</name>
+            <title>Read Cell value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1623495765253' status='passed' stop='1623495765415'>
+            <name>Convert data into JSON format</name>
+            <title>Convert data into JSON format</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

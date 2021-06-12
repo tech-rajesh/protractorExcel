@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623498560083' stop='1623498570943'>
+    <name>Read XL Data</name>
+    <title>Read XL Data</title>
+    <test-cases>
+        <test-case start='1623498560084' status='passed' stop='1623498564125'>
+            <name>Parametrize test with different user</name>
+            <title>Parametrize test with different user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623498564125' status='passed' stop='1623498566410'>
+            <name>Parametrize test with different user</name>
+            <title>Parametrize test with different user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623498566410' status='passed' stop='1623498568673'>
+            <name>Parametrize test with different user</name>
+            <title>Parametrize test with different user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623498568673' status='passed' stop='1623498570941'>
+            <name>Parametrize test with different user</name>
+            <title>Parametrize test with different user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

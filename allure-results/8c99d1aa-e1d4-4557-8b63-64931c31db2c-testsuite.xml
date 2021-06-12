@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623498217574' stop='1623498235155'>
+    <name>Read XL Data</name>
+    <title>Read XL Data</title>
+    <test-cases>
+        <test-case start='1623498217575' status='passed' stop='1623498222675'>
+            <name>TC1</name>
+            <title>TC1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623498222675' status='passed' stop='1623498226990'>
+            <name>TC1</name>
+            <title>TC1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623498226990' status='passed' stop='1623498231082'>
+            <name>TC1</name>
+            <title>TC1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623498231082' status='passed' stop='1623498235153'>
+            <name>TC1</name>
+            <title>TC1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
